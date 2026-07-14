@@ -1,0 +1,19 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.perspective
+xcuserdata/
+*.moved-aside
+
+# Build
+build/
+DerivedData/
+
+# DS_Store
+.DS_Store
+
+# Pods
+Pods/
+Podfile.lock
